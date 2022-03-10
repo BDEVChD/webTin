@@ -1,1 +1,1 @@
-web: ENV_SILENT=true npm start
+web: vendor/bin/heroku-php-apache2 public/
